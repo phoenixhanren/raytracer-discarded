@@ -14,4 +14,4 @@ A Simple Ray Tracer:
 * 缩放变换和平移变换
 * 层次包围盒(BVHs)
 
-![](https://github.com/phoenixhanren/raytracer-discarded/Results/test1.jpg)
+![](https://github.com/phoenixhanren/raytracer-discarded/raw/master/Results/test1.jpg)
